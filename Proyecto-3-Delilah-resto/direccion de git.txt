@@ -1,0 +1,2 @@
+https://github.com/Lidarion/proyecto-3-delilah-resto
+tanto en la carpeta como en el repositorio esta el archivo readme con las instrucciones para el proyecto
